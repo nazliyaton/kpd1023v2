@@ -1,4 +1,4 @@
-apple
+tembikai
 anggur
 limau
 pisang
